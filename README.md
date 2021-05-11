@@ -34,3 +34,8 @@ The dataset containing the number of page views each day on the freeCodeCamp.org
 ## [Sea Level PredictorPassed](https://github.com/ssilvacris/Data_Analysis-with-Python/tree/main/Sea_Level)
 
 In this project, I analyzed a dataset of the global average sea level change since 1880.Also I used the data to predict the sea level change through year 2050.
+
+
+## My Data Analysis with Python Certificate
+
+Here there is my [certificate.](https://github.com/ssilvacris/Data_Analysis-with-Python/blob/main/Data_Analysis_Certificate.png.pdf.pdf)
